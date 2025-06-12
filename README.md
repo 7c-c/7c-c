@@ -1,3 +1,5 @@
+### ✅ 最新地址：[点丶此丶进丶入](http://a.d44k.cc/17c.html)
+<br></br><br></br><br></br><br></br><br></br><br></br>
 import tkinter as tk
 from tkinter import messagebox
 
